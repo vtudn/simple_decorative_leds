@@ -1,6 +1,6 @@
 # simple_decorative_leds
 
-**SCENARIO**: Running LEDs is usually used for decorating stores, buildings, companies. Design and implement a Decorative LED Light system that supports multiple running types on Altera DE2i-150 board.
+**SCENARIO**: Running LEDs is usually used for decorating stores, buildings, companies. This is the design and implementation of a simple decorative running LEDs system that supports multiple running types on the FPGA Altera DE2i-150 board.
 
 **FUNCTIONALITIES**:
 - Support at least 2 rules:
